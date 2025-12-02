@@ -22,6 +22,6 @@ My journey is driven by discipline and a passion for data integrity, which ensur
 | **ML/Data Science** | Pandas, NumPy, Scikit-learn, Feature Engineering |
 | **Languages** | Python (Advanced), SQL (Basic) |
 
-### 🤝 Let's Connect:mwatahnirooney@gmail.com
+### 🤝 Let's Connect:
 
-[Link to your LinkedIn] | [Link to your Personal Website/Portfolio (if you have one)]
+mwatahnirooney@gmail.com
